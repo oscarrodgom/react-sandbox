@@ -1,2 +1,2 @@
 # react-sandbox
-Minimum expoited react app
+Minimum exploited react 18 app with typescript
